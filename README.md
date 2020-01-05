@@ -14,3 +14,5 @@ Example usage:
 ```go
 var b byte = byteliteral.B10011111
 ```
+
+(This is a work around for Go not having built-in binary literals.)
